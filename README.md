@@ -331,6 +331,7 @@ _Recipe management_
 
 ### E-commerce
 
+* [Magento](https://www.magento.com) - Free open source commerce platform ([Source code](https://github.com/magento/magento2) `OSL-3.0` `PHP`
 * [OpenCart](https://www.opencart.com) - Free open source shopping cart solution. ([Source code](https://github.com/opencart/opencart)) `GPLv3` `PHP`
 * [Open Classifieds](http://open-classifieds.com/) - Free open-source, self-hosted CMS for classifieds sites. ([Source code](https://github.com/open-classifieds/openclassifieds2))  `GPL` `PHP`
 * [Open eShop](http://open-eshop.com/) - Sell your digital goods with licenses and provide support. ([Source code](https://github.com/open-classifieds/open-eshop))  `GPL` `PHP`
